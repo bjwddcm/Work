@@ -147,20 +147,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a86af54a244e4589",
+  "active": "5fbd79c075bb675a",
   "lastOpenFiles": [
+    "BLDC/~WRL3433.tmp",
+    "BLDC/~WRD3386.tmp",
+    "BLDC/~WRL1927.tmp",
+    "BLDC/~WRD1896.tmp",
+    "BLDC/~WRL0993.tmp",
+    "BLDC/~WRD0958.tmp",
+    "BLDC/~WRL3280.tmp",
+    "BLDC/~WRD3237.tmp",
+    "BLDC/~WRL3314.tmp",
+    "BLDC/~WRD3279.tmp",
+    "BLDC/~WRL0003.tmp",
     "BLDC/学习/资料梳理.md",
     "BLDC/学习/知识点.md",
-    "BLDC/残留问题.md",
-    "BLDC/~WRL2908.tmp",
-    "BLDC/~WRD2889.tmp",
-    "BLDC/~WRD2885.tmp",
-    "BLDC/8.相关参考文档_BLDC研究/Visio/预定位3.vsdx",
-    "BLDC/8.相关参考文档_BLDC研究/Visio/预定位2.vsdx",
-    "BLDC/8.相关参考文档_BLDC研究/Visio/预定位.vsdx",
-    "BLDC/8.相关参考文档_BLDC研究/Visio/绕组连接示意图.vsdx",
-    "BLDC/8.相关参考文档_BLDC研究/Visio/无刷直流电机控制系统框图.vsdx",
-    "BLDC/8.相关参考文档_BLDC研究/Visio/双闭环.vsdx",
-    "BLDC/8.相关参考文档_BLDC研究/Visio/传递函数.vsdx"
+    "BLDC/残留问题.md"
   ]
 }
