@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BLDC/BLDC.md",
+                "file": "BLDC/残留问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289.5
   },
   "right": {
     "id": "fc98d1713ae1d488",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BLDC/BLDC.md",
+                "file": "BLDC/残留问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BLDC/BLDC.md",
+                "file": "BLDC/残留问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BLDC/BLDC.md"
+                "file": "BLDC/残留问题.md"
               }
             }
           }
@@ -148,5 +148,19 @@
     }
   },
   "active": "a86af54a244e4589",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "BLDC/学习/资料梳理.md",
+    "BLDC/学习/知识点.md",
+    "BLDC/残留问题.md",
+    "BLDC/~WRL2908.tmp",
+    "BLDC/~WRD2889.tmp",
+    "BLDC/~WRD2885.tmp",
+    "BLDC/8.相关参考文档_BLDC研究/Visio/预定位3.vsdx",
+    "BLDC/8.相关参考文档_BLDC研究/Visio/预定位2.vsdx",
+    "BLDC/8.相关参考文档_BLDC研究/Visio/预定位.vsdx",
+    "BLDC/8.相关参考文档_BLDC研究/Visio/绕组连接示意图.vsdx",
+    "BLDC/8.相关参考文档_BLDC研究/Visio/无刷直流电机控制系统框图.vsdx",
+    "BLDC/8.相关参考文档_BLDC研究/Visio/双闭环.vsdx",
+    "BLDC/8.相关参考文档_BLDC研究/Visio/传递函数.vsdx"
+  ]
 }
