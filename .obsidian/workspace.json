@@ -11,9 +11,25 @@
             "id": "f5bca0e157a11c7b",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "华夏龙辉/江淮电控项目_应用层软件说明v301.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a5f4bc16387f60f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8526a41d6643e92c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "华夏龙辉/弱磁控制.md",
+                "file": "华夏龙辉/The analysis of PDF.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6c61cf7eec1e0f74",
@@ -86,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华夏龙辉/弱磁控制.md",
+                "file": "华夏龙辉/The analysis of PDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华夏龙辉/弱磁控制.md",
+                "file": "华夏龙辉/The analysis of PDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华夏龙辉/弱磁控制.md"
+                "file": "华夏龙辉/The analysis of PDF.md"
               }
             }
           }
@@ -148,8 +163,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5bca0e157a11c7b",
+  "active": "8526a41d6643e92c",
   "lastOpenFiles": [
+    "Imas/状态机.png.md",
+    "华夏龙辉/The analysis of PDF.md",
+    "Imas",
+    "华夏龙辉/Imgs/状态机.png",
+    "华夏龙辉/Imgs",
+    "华夏龙辉/弱磁控制.md",
+    "华夏龙辉/江淮电控项目_应用层软件说明v301.pdf",
     "华夏龙辉/JAC/test.md",
     "华夏龙辉/JAC/华夏龙辉软件功能分析模板.xls",
     "华夏龙辉/JAC/分析案例02_弱磁功能模块.xls",
