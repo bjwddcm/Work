@@ -11,11 +11,9 @@
             "id": "3d493db7738e34f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "BLDC/学习/知识点.md",
-                "mode": "source",
-                "source": false
+                "file": "华夏龙辉/江淮电控项目_应用层软件说明v301.pdf"
               }
             }
           }
@@ -69,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc98d1713ae1d488",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BLDC/学习/知识点.md",
+                "file": "华夏龙辉/江淮电控项目_应用层软件说明v301.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BLDC/学习/知识点.md",
+                "file": "华夏龙辉/江淮电控项目_应用层软件说明v301.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BLDC/学习/知识点.md"
+                "file": "华夏龙辉/江淮电控项目_应用层软件说明v301.pdf"
               }
             }
           }
@@ -133,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,22 +146,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d493db7738e34f5",
+  "active": "d7aef202bffe42a3",
   "lastOpenFiles": [
-    "BLDC/~WRL3121.tmp",
-    "BLDC/~WRD3093.tmp",
     "BLDC/残留问题.md",
-    "BLDC/有用书籍/无位置传感器无刷直流电机启动控制研究_梁禹升.pdf",
-    "BLDC/~WRL0003.tmp",
-    "BLDC/~WRD0002.tmp",
+    "华夏龙辉/江淮电控项目_应用层软件说明v301.pdf",
+    "华夏龙辉",
+    "华夏longhui",
+    "新建文件夹",
+    "BLDC/~WRL2718.tmp",
+    "BLDC/~WRD2668.tmp",
+    "BLDC/~WRL2870.tmp",
+    "BLDC/~WRD2820.tmp",
+    "BLDC/~WRL3205.tmp",
+    "BLDC/~WRD3150.tmp",
     "BLDC/学习/资料梳理.md",
-    "BLDC/有用书籍/论文/无位置传感器无刷直流电机控制及其实现_胡延奇.pdf",
     "BLDC/学习/知识点.md",
-    "BLDC/学习/公式.md",
-    "BLDC/~WRL3433.tmp",
-    "BLDC/~WRD3386.tmp",
-    "BLDC/~WRL1927.tmp",
-    "BLDC/~WRD1896.tmp",
-    "BLDC/~WRL0993.tmp"
+    "BLDC/学习/公式.md"
   ]
 }
