@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "fee7d63b66328122",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dbf7585891f275c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5bca0e157a11c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "华夏龙辉/弱磁控制.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa0c01d778a8c51d",
+    "type": "split",
+    "children": [
+      {
+        "id": "628ca23285723924",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5af4a6792d6be07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23493b4ea2fbc0a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b214558bfc59955f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6c61cf7eec1e0f74",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bbba28a2a3bc415",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0865cf5eb35c8ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "华夏龙辉/弱磁控制.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81fb0154b7fd5349",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "华夏龙辉/弱磁控制.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ae8a5bcaf1b9e5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5b38c3cd1bbeb90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "华夏龙辉/弱磁控制.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f5bca0e157a11c7b",
+  "lastOpenFiles": [
+    "华夏龙辉/JAC/test.md",
+    "华夏龙辉/JAC/华夏龙辉软件功能分析模板.xls",
+    "华夏龙辉/JAC/分析案例02_弱磁功能模块.xls",
+    "华夏龙辉/JAC/分析案例01_MTPA功能模块.xls",
+    "华夏龙辉/JAC/新建文本文档.md",
+    "华夏龙辉/JAC/新建文本文档.txt",
+    "华夏龙辉/JAC"
+  ]
+}
