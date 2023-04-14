@@ -4,38 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9dbf7585891f275c",
+        "id": "b9fbe99eaeb77f71",
         "type": "tabs",
         "children": [
           {
-            "id": "f5bca0e157a11c7b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "华夏龙辉/江淮电控项目_应用层软件说明v301.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a5f4bc16387f60f7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8526a41d6643e92c",
+            "id": "9054a8ddbcb6ff6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "华夏龙辉/The analysis of PDF.md",
+                "file": "Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6343edf550328c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Record/一阶低通滤波及其离散化.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 205.5,
+    "collapsed": true
   },
   "right": {
     "id": "6c61cf7eec1e0f74",
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华夏龙辉/The analysis of PDF.md",
+                "file": "Record/一阶低通滤波及其离散化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华夏龙辉/The analysis of PDF.md",
+                "file": "Record/一阶低通滤波及其离散化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,11 +139,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华夏龙辉/The analysis of PDF.md"
+                "file": "Record/一阶低通滤波及其离散化.md"
               }
             }
+          },
+          {
+            "id": "4b1ce94bf90d5f77",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -163,21 +170,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8526a41d6643e92c",
+  "active": "a6343edf550328c9",
   "lastOpenFiles": [
-    "Imas/状态机.png.md",
+    "Note.md",
+    "Record/一阶低通滤波及其离散化.md",
+    "Record",
+    "BLDC/8.相关参考文档_BLDC研究/4.BLDC和PMSM矢量控制参考资料/~$PWM的原理讲解以及应用过程中的推导与计算.doc",
+    "华夏龙辉/85EAC000",
+    "华夏龙辉/D4EAC000",
+    "华夏龙辉/14EAC000",
+    "华夏龙辉/13EAC000",
+    "Learn",
+    "华夏龙辉/江淮电控项目_应用层软件说明v301.pdf",
     "华夏龙辉/The analysis of PDF.md",
+    "华夏龙辉/Imgs/实现策略.png",
+    "Imas/状态机.png.md",
     "Imas",
     "华夏龙辉/Imgs/状态机.png",
     "华夏龙辉/Imgs",
     "华夏龙辉/弱磁控制.md",
-    "华夏龙辉/江淮电控项目_应用层软件说明v301.pdf",
     "华夏龙辉/JAC/test.md",
-    "华夏龙辉/JAC/华夏龙辉软件功能分析模板.xls",
-    "华夏龙辉/JAC/分析案例02_弱磁功能模块.xls",
-    "华夏龙辉/JAC/分析案例01_MTPA功能模块.xls",
-    "华夏龙辉/JAC/新建文本文档.md",
-    "华夏龙辉/JAC/新建文本文档.txt",
-    "华夏龙辉/JAC"
+    "华夏龙辉/JAC/新建文本文档.md"
   ]
 }
