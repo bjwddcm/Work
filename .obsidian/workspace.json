@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd2a11bd8a2ac737",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learn/匠心科技指导手册.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9948dabd0684a3b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn/Others/惠斯登电桥.md",
+                "file": "PMSM资料梳理.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5,
-    "collapsed": true
+    "width": 205.5
   },
   "right": {
     "id": "6c61cf7eec1e0f74",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn/匠心科技指导手册.md",
+                "file": "PMSM资料梳理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn/匠心科技指导手册.md",
+                "file": "PMSM资料梳理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn/匠心科技指导手册.md"
+                "file": "PMSM资料梳理.md"
               }
             }
           },
@@ -168,10 +155,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd2a11bd8a2ac737",
+  "active": "9948dabd0684a3b6",
   "lastOpenFiles": [
-    "Learn/Others/桥式整流器.md",
+    "Imgs/20230420_050427_818.png",
+    "Imgs",
+    "华夏龙辉/~$The Analysis of FW Voltage Filter Module.xlsx",
+    "~$BLDC上层软件控制策略分析.docx",
+    "Learn/一阶低通滤波及其离散化.md",
     "Learn/匠心科技指导手册.md",
+    "Learn/Others/桥式整流器.md",
     "BLDC/~$DC有感和无感上层软件策略的分析.docx",
     "Learn/Others/全桥和半桥逆变电路.md",
     "Learn/Others/电桥电路.md",
@@ -182,10 +174,8 @@
     "华夏龙辉/弱磁控制.md",
     "华夏龙辉/The analysis of slx.md",
     "华夏龙辉/The analysis of PDF.md",
-    "华夏龙辉/~$The Analysis of FW Voltage Filter Module.xlsx",
     "Learn/电流滞环控制.md",
-    "Note.md",
-    "Learn/一阶低通滤波及其离散化.md",
+    "PMSM资料梳理.md",
     "wiki/電流.md",
     "wiki",
     "wiki/電池.md",
@@ -195,8 +185,6 @@
     "Learn/Others",
     "BLDC/残留问题.md",
     "Record",
-    "BLDC/8.相关参考文档_BLDC研究/4.BLDC和PMSM矢量控制参考资料/~$PWM的原理讲解以及应用过程中的推导与计算.doc",
-    "华夏龙辉/85EAC000",
     "华夏龙辉/Imgs/实现策略.png",
     "Imas/状态机.png.md",
     "华夏龙辉/Imgs/状态机.png",
