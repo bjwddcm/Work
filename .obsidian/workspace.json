@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4a7482d8adf3d21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "零基础入门无刷直流电机矢量控制.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PMSM资料梳理.md",
+                "file": "零基础入门无刷直流电机矢量控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PMSM资料梳理.md",
+                "file": "零基础入门无刷直流电机矢量控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PMSM资料梳理.md"
+                "file": "零基础入门无刷直流电机矢量控制.md"
               }
             }
           },
@@ -155,14 +168,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9948dabd0684a3b6",
+  "active": "e4a7482d8adf3d21",
   "lastOpenFiles": [
-    "Imgs/20230420_050427_818.png",
-    "Imgs",
+    "PMSM资料梳理.md",
+    "零基础入门无刷直流电机矢量控制.md",
+    "Learn/电流滞环控制.md",
     "华夏龙辉/~$The Analysis of FW Voltage Filter Module.xlsx",
     "~$BLDC上层软件控制策略分析.docx",
-    "Learn/一阶低通滤波及其离散化.md",
     "Learn/匠心科技指导手册.md",
+    "Imgs/20230420_050427_818.png",
+    "Imgs",
+    "Learn/一阶低通滤波及其离散化.md",
     "Learn/Others/桥式整流器.md",
     "BLDC/~$DC有感和无感上层软件策略的分析.docx",
     "Learn/Others/全桥和半桥逆变电路.md",
@@ -174,8 +190,6 @@
     "华夏龙辉/弱磁控制.md",
     "华夏龙辉/The analysis of slx.md",
     "华夏龙辉/The analysis of PDF.md",
-    "Learn/电流滞环控制.md",
-    "PMSM资料梳理.md",
     "wiki/電流.md",
     "wiki",
     "wiki/電池.md",
